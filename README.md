@@ -520,8 +520,6 @@ This implementation goes beyond the basic requirements with:
 - Responsive grid layout
 - Hover effects and micro-interactions
 
-See [FEATURES.md](./FEATURES.md) for detailed feature documentation.
-
 ## 🎯 Future Enhancements
 
 Additional potential improvements:
