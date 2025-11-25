@@ -462,30 +462,6 @@ This project follows:
 - ✅ Responsive design patterns
 - ✅ Error handling at all levels
 
-## 🤝 Contributing
-
-This is a coding assignment project, but suggestions are welcome!
-
-## 📄 License
-
-MIT License - feel free to use this project for learning purposes.
-
-## 👨‍💻 Author
-
-Created as part of the Finfactor coding assignment.
-
-## 🙏 Acknowledgments
-
-- NASA for the amazing APOD API
-- The open-source community
-
-## 📞 Support
-
-For questions or issues:
-1. Check the [API Documentation](#api-documentation)
-2. Verify your [Configuration](#configuration)
-3. Review error messages in browser console and terminal
-
 ## 🌟 Unique Features That Stand Out
 
 This implementation goes beyond the basic requirements with:
