@@ -378,11 +378,27 @@ The backend implements a sophisticated caching mechanism:
 ### Dashboard View
 The main dashboard shows today's APOD with a date picker to view past images.
 
+![Dashboard](./Screenshots/Screenshot%202025-11-25%20at%2021.58.46.png)
+
 ### Gallery View
 Browse multiple APODs with customizable date ranges and quick filters.
 
-### Detail Modal
-Click any APOD card to view full details with HD download option.
+![Gallery](./Screenshots/Screenshot%202025-11-25%20at%2021.59.09.png)
+
+### Favorites Page
+Your personal collection of saved APODs with persistent storage.
+
+![Favorites](./Screenshots/Screenshot%202025-11-25%20at%2021.59.30.png)
+
+### Random Explorer
+Discover random APODs from NASA's archive.
+
+![Random Explorer](./Screenshots/Screenshot%202025-11-25%20at%2022.00.39.png)
+
+### Statistics Dashboard
+Visual analytics and insights from APOD data.
+
+![Statistics](./Screenshots/Screenshot%202025-11-25%20at%2022.00.59.png)
 
 ## 🔒 Security Best Practices
 
